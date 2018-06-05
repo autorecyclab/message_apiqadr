@@ -1,16 +1,16 @@
 var welcome_page_messages = [{
 
-        "date": ,
+        "date": "05/06/2018",
 
-        "message":
+        "message": "1er commit testé avec données : résultat ok l alert s affiche"
 
                 },
 
     {
 
-        "date": ,
+        "date": "05/06/2018",
 
-        "message": "Message pour commit"
+        "message": "2ème commit testé avec aucune donnée : nikel la div disparait pour l alert"
 
                 }
 
