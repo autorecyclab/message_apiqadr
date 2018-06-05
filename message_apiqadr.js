@@ -1,17 +1,1 @@
-var welcome_page_messages = [{
-
-        "date": "",
-
-        "message": ""
-
-                },
-
-    {
-
-        "date": "",
-
-        "message": ""
-
-                }
-
-];
+var welcome_page_messages = [];
