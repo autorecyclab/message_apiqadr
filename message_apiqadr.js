@@ -1,14 +1,14 @@
 var welcome_page_messages = [{
 
-        "date": "05/06",
+        "date": ,
 
-        "message": "Coucou"
+        "message":
 
                 },
 
     {
 
-        "date": "05/06",
+        "date": ,
 
         "message": "Message pour commit"
 
