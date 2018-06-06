@@ -8,8 +8,8 @@ var welcome_page_messages = [
 
     {
 
-        "date":,
+        "date": "",
 
-        "message": 
+        "message": ""
 
                 }];
